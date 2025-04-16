@@ -1,0 +1,163 @@
+patient_id,ground_truth,predictions,jaccard_index,threshold prob,threshold occurence
+0,['neisseria_gonorrhoeae'],[],0.0,0.4,2
+0,['neisseria_gonorrhoeae'],[],0.0,0.4,4
+0,['neisseria_gonorrhoeae'],[],0.0,0.4,6
+0,['neisseria_gonorrhoeae'],[],0.0,0.6,2
+0,['neisseria_gonorrhoeae'],[],0.0,0.6,4
+0,['neisseria_gonorrhoeae'],[],0.0,0.6,6
+0,['neisseria_gonorrhoeae'],[],0.0,0.8,2
+0,['neisseria_gonorrhoeae'],[],0.0,0.8,4
+0,['neisseria_gonorrhoeae'],[],0.0,0.8,6
+0,['neisseria_gonorrhoeae'],['neisseria_gonorrhoeae'],1.0,0.4,2
+0,['neisseria_gonorrhoeae'],['neisseria_gonorrhoeae'],1.0,0.4,4
+0,['neisseria_gonorrhoeae'],['neisseria_gonorrhoeae'],1.0,0.4,6
+0,['neisseria_gonorrhoeae'],['neisseria_gonorrhoeae'],1.0,0.6,2
+0,['neisseria_gonorrhoeae'],['neisseria_gonorrhoeae'],1.0,0.6,4
+0,['neisseria_gonorrhoeae'],['neisseria_gonorrhoeae'],1.0,0.6,6
+0,['neisseria_gonorrhoeae'],[],0.0,0.8,2
+0,['neisseria_gonorrhoeae'],[],0.0,0.8,4
+0,['neisseria_gonorrhoeae'],[],0.0,0.8,6
+1,['corynebacterium_ulcerans'],[],0.0,0.4,2
+1,['corynebacterium_ulcerans'],[],0.0,0.4,4
+1,['corynebacterium_ulcerans'],[],0.0,0.4,6
+1,['corynebacterium_ulcerans'],[],0.0,0.6,2
+1,['corynebacterium_ulcerans'],[],0.0,0.6,4
+1,['corynebacterium_ulcerans'],[],0.0,0.6,6
+1,['corynebacterium_ulcerans'],[],0.0,0.8,2
+1,['corynebacterium_ulcerans'],[],0.0,0.8,4
+1,['corynebacterium_ulcerans'],[],0.0,0.8,6
+2,['staphylococcus_aureus'],['listeria_monocytogenes'],0.0,0.4,2
+2,['staphylococcus_aureus'],[],0.0,0.4,4
+2,['staphylococcus_aureus'],[],0.0,0.4,6
+2,['staphylococcus_aureus'],[],0.0,0.6,2
+2,['staphylococcus_aureus'],[],0.0,0.6,4
+2,['staphylococcus_aureus'],[],0.0,0.6,6
+2,['staphylococcus_aureus'],[],0.0,0.8,2
+2,['staphylococcus_aureus'],[],0.0,0.8,4
+2,['staphylococcus_aureus'],[],0.0,0.8,6
+3,['streptococcus_pneumoniae'],"['streptococcus_agalactiae', 'streptococcus_pneumoniae']",0.5,0.4,2
+3,['streptococcus_pneumoniae'],"['streptococcus_agalactiae', 'streptococcus_pneumoniae']",0.5,0.4,4
+3,['streptococcus_pneumoniae'],['streptococcus_pneumoniae'],1.0,0.4,6
+3,['streptococcus_pneumoniae'],[],0.0,0.6,2
+3,['streptococcus_pneumoniae'],[],0.0,0.6,4
+3,['streptococcus_pneumoniae'],[],0.0,0.6,6
+3,['streptococcus_pneumoniae'],[],0.0,0.8,2
+3,['streptococcus_pneumoniae'],[],0.0,0.8,4
+3,['streptococcus_pneumoniae'],[],0.0,0.8,6
+4,"['salmonella_enterica_typhimurium', 'clostridioides_difficile']",[],0.0,0.4,2
+4,"['salmonella_enterica_typhimurium', 'clostridioides_difficile']",[],0.0,0.4,4
+4,"['salmonella_enterica_typhimurium', 'clostridioides_difficile']",[],0.0,0.4,6
+4,"['salmonella_enterica_typhimurium', 'clostridioides_difficile']",[],0.0,0.6,2
+4,"['salmonella_enterica_typhimurium', 'clostridioides_difficile']",[],0.0,0.6,4
+4,"['salmonella_enterica_typhimurium', 'clostridioides_difficile']",[],0.0,0.6,6
+4,"['salmonella_enterica_typhimurium', 'clostridioides_difficile']",[],0.0,0.8,2
+4,"['salmonella_enterica_typhimurium', 'clostridioides_difficile']",[],0.0,0.8,4
+4,"['salmonella_enterica_typhimurium', 'clostridioides_difficile']",[],0.0,0.8,6
+4,"['salmonella_enterica_typhimurium', 'clostridioides_difficile']",['klebsiella_pneumoniae'],0.0,0.4,2
+4,"['salmonella_enterica_typhimurium', 'clostridioides_difficile']",['klebsiella_pneumoniae'],0.0,0.4,4
+4,"['salmonella_enterica_typhimurium', 'clostridioides_difficile']",['klebsiella_pneumoniae'],0.0,0.4,6
+4,"['salmonella_enterica_typhimurium', 'clostridioides_difficile']",[],0.0,0.6,2
+4,"['salmonella_enterica_typhimurium', 'clostridioides_difficile']",[],0.0,0.6,4
+4,"['salmonella_enterica_typhimurium', 'clostridioides_difficile']",[],0.0,0.6,6
+4,"['salmonella_enterica_typhimurium', 'clostridioides_difficile']",[],0.0,0.8,2
+4,"['salmonella_enterica_typhimurium', 'clostridioides_difficile']",[],0.0,0.8,4
+4,"['salmonella_enterica_typhimurium', 'clostridioides_difficile']",[],0.0,0.8,6
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",['streptococcus_pneumoniae'],0.0,0.4,2
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",['streptococcus_pneumoniae'],0.0,0.4,4
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",['streptococcus_pneumoniae'],0.0,0.4,6
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",[],0.0,0.6,2
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",[],0.0,0.6,4
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",[],0.0,0.6,6
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",[],0.0,0.8,2
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",[],0.0,0.8,4
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",[],0.0,0.8,6
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']","['mycobacterium_tuberculosis', 'mycobacterium_ulcerans']",0.3333333333333333,0.4,2
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']","['mycobacterium_tuberculosis', 'mycobacterium_ulcerans']",0.3333333333333333,0.4,4
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']","['mycobacterium_tuberculosis', 'mycobacterium_ulcerans']",0.3333333333333333,0.4,6
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",['mycobacterium_ulcerans'],0.0,0.6,2
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",['mycobacterium_ulcerans'],0.0,0.6,4
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",['mycobacterium_ulcerans'],0.0,0.6,6
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",[],0.0,0.8,2
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",[],0.0,0.8,4
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",[],0.0,0.8,6
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",['neisseria_gonorrhoeae'],0.0,0.4,2
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",['neisseria_gonorrhoeae'],0.0,0.4,4
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",['neisseria_gonorrhoeae'],0.0,0.4,6
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",['neisseria_gonorrhoeae'],0.0,0.6,2
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",['neisseria_gonorrhoeae'],0.0,0.6,4
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",['neisseria_gonorrhoeae'],0.0,0.6,6
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",[],0.0,0.8,2
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",[],0.0,0.8,4
+5,"['mycobacterium_tuberculosis', 'pseudomonas_aeruginosa']",[],0.0,0.8,6
+6,['klebsiella_pneumoniae'],['streptococcus_agalactiae'],0.0,0.4,2
+6,['klebsiella_pneumoniae'],['streptococcus_agalactiae'],0.0,0.4,4
+6,['klebsiella_pneumoniae'],['streptococcus_agalactiae'],0.0,0.4,6
+6,['klebsiella_pneumoniae'],[],0.0,0.6,2
+6,['klebsiella_pneumoniae'],[],0.0,0.6,4
+6,['klebsiella_pneumoniae'],[],0.0,0.6,6
+6,['klebsiella_pneumoniae'],[],0.0,0.8,2
+6,['klebsiella_pneumoniae'],[],0.0,0.8,4
+6,['klebsiella_pneumoniae'],[],0.0,0.8,6
+6,['klebsiella_pneumoniae'],['klebsiella_michiganensis'],0.0,0.4,2
+6,['klebsiella_pneumoniae'],['klebsiella_michiganensis'],0.0,0.4,4
+6,['klebsiella_pneumoniae'],['klebsiella_michiganensis'],0.0,0.4,6
+6,['klebsiella_pneumoniae'],[],0.0,0.6,2
+6,['klebsiella_pneumoniae'],[],0.0,0.6,4
+6,['klebsiella_pneumoniae'],[],0.0,0.6,6
+6,['klebsiella_pneumoniae'],[],0.0,0.8,2
+6,['klebsiella_pneumoniae'],[],0.0,0.8,4
+6,['klebsiella_pneumoniae'],[],0.0,0.8,6
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.4,2
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.4,4
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.4,6
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.6,2
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.6,4
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.6,6
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.8,2
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.8,4
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.8,6
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",['staphylococcus_pseudintermedius'],0.0,0.4,2
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.4,4
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.4,6
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.6,2
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.6,4
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.6,6
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.8,2
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.8,4
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.8,6
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.4,2
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.4,4
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.4,6
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.6,2
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.6,4
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.6,6
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.8,2
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.8,4
+7,"['staphylococcus_pyogenes', 'corynebacterium_diphtheriae']",[],0.0,0.8,6
+8,"['burkholderia_pseudomallei', 'listeria_monocytogenes']",['streptococcus_pneumoniae'],0.0,0.4,2
+8,"['burkholderia_pseudomallei', 'listeria_monocytogenes']",['streptococcus_pneumoniae'],0.0,0.4,4
+8,"['burkholderia_pseudomallei', 'listeria_monocytogenes']",['streptococcus_pneumoniae'],0.0,0.4,6
+8,"['burkholderia_pseudomallei', 'listeria_monocytogenes']",[],0.0,0.6,2
+8,"['burkholderia_pseudomallei', 'listeria_monocytogenes']",[],0.0,0.6,4
+8,"['burkholderia_pseudomallei', 'listeria_monocytogenes']",[],0.0,0.6,6
+8,"['burkholderia_pseudomallei', 'listeria_monocytogenes']",[],0.0,0.8,2
+8,"['burkholderia_pseudomallei', 'listeria_monocytogenes']",[],0.0,0.8,4
+8,"['burkholderia_pseudomallei', 'listeria_monocytogenes']",[],0.0,0.8,6
+9,[],['streptococcus_agalactiae'],0.0,0.4,2
+9,[],[],1.0,0.4,4
+9,[],[],1.0,0.4,6
+9,[],[],1.0,0.6,2
+9,[],[],1.0,0.6,4
+9,[],[],1.0,0.6,6
+9,[],[],1.0,0.8,2
+9,[],[],1.0,0.8,4
+9,[],[],1.0,0.8,6
+9,[],[],1.0,0.4,2
+9,[],[],1.0,0.4,4
+9,[],[],1.0,0.4,6
+9,[],[],1.0,0.6,2
+9,[],[],1.0,0.6,4
+9,[],[],1.0,0.6,6
+9,[],[],1.0,0.8,2
+9,[],[],1.0,0.8,4
+9,[],[],1.0,0.8,6
